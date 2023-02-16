@@ -1,0 +1,18 @@
+{
+    "show_video": true,
+    "use_ip_cam": false,
+    "ip_cam_addr": "",
+    "create_image": true,
+    "min_upload_seconds": 5,
+    "camera_warmup_time": 2.5,
+    "resizeWidth": 500,
+    "delta_thresh": 1,
+    "min_area": 1000,
+    "min_motion_frames": 5,
+    "nonMotionTimer": 50,
+    "userDir": "/home/tarik-devh/Projects/RecordingPEP",
+    "output_folder": "/home/tarik-devh/Projects/RecordingPEP/output",
+    "record_fps": 10,
+    "input_video": "/home/tarik-devh/Projects/RecordingPEP/Video02.mp4"
+}
+
